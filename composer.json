@@ -14,6 +14,13 @@
             "email": "thuhtettun@geniefintech.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thuhtet\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
