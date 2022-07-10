@@ -1,0 +1,19 @@
+{
+    "name": "thuhtet/contact",
+    "description": "sending email",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thuhtet\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thuhtettun-geniefintech",
+            "email": "thuhtettun@geniefintech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
